@@ -174,7 +174,10 @@ const anuj = {
 </div> -->
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AnujSharrma08" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=AnujSharrma08&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </div>
 
 <div align="center">
@@ -236,7 +239,7 @@ graph LR
   <img src="https://img.shields.io/badge/Send%20me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-### 📧 Email: **your.email@example.com**
+### 📧 Email: **sharrma26@gmail.com**
 ### 💼 LinkedIn: **[Anuj Sharma](https://linkedin.com/in/anuj-sharrma)**
 
 </div>
