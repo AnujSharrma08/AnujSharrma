@@ -71,7 +71,7 @@ Full-Stack Developer with strong experience in building scalable web and mobile 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anujsharrma&show_icons=true&theme=default)
+![GitHub Stats](https://ghchart.rshah.org/764ba2/AnujSharrma08)
 
 ---
 
