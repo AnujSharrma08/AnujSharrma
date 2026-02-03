@@ -155,10 +155,6 @@ const anuj = {
 <tr>
 <td width="50%" valign="top">
 
-</td>
-
-<td width="50%" valign="top">
-
 ### 🚀 Actively Building
 
 ![In Progress](https://img.shields.io/badge/-In%20Progress-FFA500?style=flat-square)
