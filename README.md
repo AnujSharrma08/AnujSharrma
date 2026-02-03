@@ -7,10 +7,9 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/anuj-sharma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/anujsharrma"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/anuj-sharrma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:sharrma26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/AnujSharrma08"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
@@ -19,19 +18,47 @@
 
 ```javascript
 const anuj = {
-    location: "India 🇮🇳",
+    name: "Anuj Sharrma",
+    location: "Pune, India 🇮🇳",
     role: "Full-Stack Developer",
+    education: "Master’s in Computer Science",
     code: ["JavaScript", "Python", "SQL"],
     technologies: {
-        frontend: ["React", "Next.js", "Tailwind CSS", "ShadCN UI"],
-        backend: ["Node.js", "Express", "FastAPI"],
-        databases: ["MySQL", "PostgreSQL"],
-        devOps: ["Docker", "AWS EC2", "Vercel"],
-        tools: ["Git", "Postman", "VS Code"]
+        frontend: [
+            "React.js",
+            "Next.js",
+            "React Native",
+            "Tailwind CSS",
+        ],
+        backend: [
+            "Node.js",
+            "Express.js",
+            "FastAPI"
+        ],
+        databases: [
+            "MySQL",
+            "PostgreSQL"
+        ],
+        devOps: [
+            "Docker (basic)",
+            "AWS EC2",
+            "Vercel"
+        ],
+        tools: [
+            "Git",
+            "GitHub",
+            "Postman",
+            "VS Code",
+        ]
     },
-    currentFocus: "System Design & Backend Scalability",
+    currentFocus: [
+        "System Design",
+        "Backend Scalability",
+        "Micro-Service Architecture",
+        "Cloud Computing in (AWS)"
+    ],
     availability: "Open to remote & hybrid opportunities",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    funFact: "I still trust console.log() before any debugger 😄"
 };
 ```
 
@@ -79,68 +106,69 @@ const anuj = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔥 Full-Stack Production App
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+### 🤖 adVantage AI — Production AI Platform
+
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**AI-driven production-ready application deployed on AWS.**
 
 **🎯 Key Features:**
-- ✅ Authentication & Role-Based Access
-- ✅ RESTful API Integration
-- ✅ Production-Ready Deployment
-- ✅ Performance Optimized
+- ✅ Next.js frontend with FastAPI backend
+- ✅ Deployed on AWS (EC2, S3, RDS)
+- ✅ Secure API & scalable backend design
+- ✅ CI/CD pipeline using GitHub Actions
+- ✅ Production-grade architecture
 
-🔗 [**Live Demo**](#) | 📂 [**Repository**](https://github.com/anujsharrma)
+🔗 **Live:** `<your-live-url>`  
+📂 **Repo:** `<your-repo-url>`
 
 </td>
-<td width="50%">
 
-### 🛡️ RBAC System
+<td width="50%" valign="top">
+
+### 🧠 Rescheduler AI — Optimization System
+
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**🎯 Key Features:**
-- ✅ Role-Based Access Control
-- ✅ Raw SQL Queries
-- ✅ Modular Architecture
-- ✅ Middleware & Controllers
+**AI-based scheduling engine to optimize machine usage & workforce.**
 
-📂 [**Repository**](https://github.com/anujsharrma)
+**🎯 Key Features:**
+- ✅ Intelligent rescheduling based on priority & breakdowns
+- ✅ Penalty cost & human workload optimization
+- ✅ Constraint solving using Google OR-Tools (CP-SAT)
+- ✅ FastAPI-powered optimization engine
+- ✅ Real-world industrial use case
+
+🔗 **Live:** `<your-live-url>`  
+📂 **Repo:** `<your-repo-url>`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
-
-### 🧩 Micro-Frontend Architecture
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**🎯 Key Features:**
-- ✅ Independent App Modules
-- ✅ Dynamic Loading & Routing
-- ✅ Scalable Architecture
-- ✅ Root Config Management
-
-📂 [**Repository**](https://github.com/anujsharrma)
+<td width="50%" valign="top">
 
 </td>
-<td width="50%">
 
-### 🚀 Coming Soon...
-![](https://img.shields.io/badge/-More%20Projects-FF6B6B?style=flat-square)
+<td width="50%" valign="top">
+
+### 🚀 Actively Building
+
+![In Progress](https://img.shields.io/badge/-In%20Progress-FFA500?style=flat-square)
 
 **Currently working on:**
-- 🔨 Scalable Microservices
-- 🔨 Real-time Chat Application
-- 🔨 E-commerce Platform
+- 🔨 Real-time Chat Application (WebSockets)
+- 🔨 Scalable Microservices Architecture
+- 🔨 Advanced Backend System Design
 
-Stay tuned! 🎉
+📌 **Focus:** performance, scalability & clean architecture
 
 </td>
 </tr>
@@ -213,7 +241,7 @@ graph LR
 
 ### 💬 I'm always open to interesting conversations and collaboration opportunities!
 
-<a href="https://linkedin.com/in/anuj-sharma">
+<a href="https://linkedin.com/in/anuj-sharrma">
   <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:your.email@example.com">
@@ -221,7 +249,7 @@ graph LR
 </a>
 
 ### 📧 Email: **your.email@example.com**
-### 💼 LinkedIn: **[Anuj Sharma](https://linkedin.com/in/anuj-sharma)**
+### 💼 LinkedIn: **[Anuj Sharma](https://linkedin.com/in/anuj-sharrma)**
 
 </div>
 
