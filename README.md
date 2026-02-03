@@ -168,13 +168,13 @@ const anuj = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnujSharrma08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujSharrma08&layout=compact&langs_count=8&theme=tokyonight" />
-</div>
+</div> -->
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnujSharrma08&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AnujSharrma08" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -183,18 +183,18 @@ const anuj = {
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anujsharrma&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
+</div> -->
 
 ---
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anujsharrma&theme=tokyonight" alt="Contribution Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnujSharrma08&theme=tokyonight" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -214,12 +214,10 @@ graph LR
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - 🎓 Master System Design & Scalability
-- 🏗️ Build 3 production-level projects
-- 🌐 Contribute to 5 open-source projects
-- 📝 Write 10 technical blogs
+- 🏗️ Build 5 production-level projects
 - 🤝 Collaborate with global developers
 - 💼 Land an amazing Full-Stack role
 
@@ -234,7 +232,7 @@ graph LR
 <a href="https://linkedin.com/in/anuj-sharrma">
   <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:sharrma26@gmail.com">
   <img src="https://img.shields.io/badge/Send%20me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -250,7 +248,7 @@ graph LR
   
   ### 💖 Thanks for visiting my profile!
   
-  <img src="https://komarev.com/ghpvc/?username=anujsharrma&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=AnujSharrma08&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   
   ### ⭐ Don't forget to star my repositories if you find them interesting!
   
@@ -260,9 +258,11 @@ graph LR
 ---
 
 <div align="center">
-  
-  **"Code is like humor. When you have to explain it, it's bad." – Cory House**
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
+
+  <em>
+    "Dream is not that which you see while sleeping,  
+    it is something that does not let you sleep."
+  </em><br/>
+  <strong>— Dr. A. P. J. Abdul Kalam</strong>
+
 </div>
