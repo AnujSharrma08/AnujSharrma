@@ -175,8 +175,8 @@ const anuj = {
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=AnujSharrma08&theme=tokyonight&v=1"
-    alt="GitHub Streak"
+    src="https://ghchart.rshah.org/764ba2/AnujSharrma08"
+    alt="GitHub Calendar"
   />
 </div>
 
