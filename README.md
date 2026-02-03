@@ -124,9 +124,6 @@ const anuj = {
 - ✅ CI/CD pipeline using GitHub Actions
 - ✅ Production-grade architecture
 
-🔗 **Live:** `<your-live-url>`  
-📂 **Repo:** `<your-repo-url>`
-
 </td>
 
 <td width="50%" valign="top">
@@ -145,9 +142,6 @@ const anuj = {
 - ✅ Constraint solving using Google OR-Tools (CP-SAT)
 - ✅ FastAPI-powered optimization engine
 - ✅ Real-world industrial use case
-
-🔗 **Live:** `<your-live-url>`  
-📂 **Repo:** `<your-repo-url>`
 
 </td>
 </tr>
@@ -175,16 +169,16 @@ const anuj = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anujsharrma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujsharrma&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnujSharrma08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujSharrma08&layout=compact&langs_count=8&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujsharrma&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnujSharrma08&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anujsharrma&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnujSharrma08&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
